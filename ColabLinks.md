@@ -7,3 +7,5 @@ DataVisualization_2017 -> https://colab.research.google.com/drive/1FlhDGrT6wHeY8
 Coordinates_2017 -> https://colab.research.google.com/drive/1Phd_jg6nowDVfHZvUHMidtJ5zSCcBvI3?usp=sharing
 
 Map_2017 -> https://colab.research.google.com/drive/1pb_phw1vs5zKqJMZ-neWqOONLAB0gZAb?usp=sharing
+
+SimilarityScore -> https://colab.research.google.com/drive/14O2ilul9EkBiuWKTnZJzK1JOo98_yZ-y?usp=sharing
