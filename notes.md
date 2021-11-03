@@ -1,3 +1,7 @@
+metadata segments için soru -> rafet1998@gmail.com
+-----------------------
+korelasyonları ikili ikili yapmak mümkün değil tabii o yüzden matris oluşturun ve bu skorları bi şekilde haritada gösterin veya visualize edin
+
 # verileri görselleştirme falan, grafikleri
 
 
