@@ -22,6 +22,14 @@
 - Coordinates.json dosyasından elimizde bulunan dosyaların koordinatlarını çektik
 - Bütün dosyalar için eşsiz koordinatları belirledik ve bunları csv dosyası olarak kaydettik
 
+## 5) Map_2017 
+- Elimizde bulunan koordinatlara göre, dosyaların harita üzerinde görüntülenmesi
+
+## 6) SimilarityScore
+- İki dosya arasında istenilen ay,gün,periyot bakımından korelasyon katsayısını hesaplayan fonksiyon: score_corrcoef(file1,file2,month=None,day=None,minute=5)
+
+## 7) 
+
 
 
 
