@@ -9,3 +9,9 @@
 - Çalışmamızı olumsuz yönde etkilememesi için, hızı 10 km/h'nin altında olan değerler tüm yıl boyunca hız değerlerinin %30'u ve üzerinde ise o dosyaları sildik.
 - Son olarak koordinatları belli olmayan dosyaları da sildik.
 
+## 2) FeatureEngineering_2017
+- Hız değeri 10 km/h'nin altında olan değerler 10 km/h yapıldı ve bunun bilgisi veri setine yeni sütün olarak eklendi
+- Hız değeri 130 km/h'nin üstünde olan değerler 130 km/h yapıldı ve bunun bilgisi veri setine yeni sütün olarak eklendi
+
+
+
