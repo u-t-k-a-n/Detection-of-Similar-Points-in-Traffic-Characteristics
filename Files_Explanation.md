@@ -38,7 +38,8 @@
 - Benzerlik skorlarına göre clusterlar oluşturulur
 - Noktaların koordinatlara ek olarak bağlı oldukları cluster bilgileri eklenir.
 
-## 10)
+## 10) ClusterMap
+- Clusterların farklı renklerle harita üzerinde gösterilmesi
 
 
 
