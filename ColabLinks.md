@@ -14,8 +14,6 @@ ClusterMap -> https://colab.research.google.com/drive/1Z391EUqwqWrIPaaD6xJgEgoA5
 
 Clustering_2017 -> https://colab.research.google.com/drive/1KeFsNTwsDODPH4bHJofFLrUSyxhHXfAG?usp=sharing
 
-Map_2017 -> https://colab.research.google.com/drive/1pb_phw1vs5zKqJMZ-neWqOONLAB0gZAb?usp=sharing
-
 SimilarityScore_tf -> https://colab.research.google.com/drive/1M3A_lFCIzbYTAFjBVt_3Pty2ez8AcR20?usp=sharing
 
 SimilarityScores_2017 -> https://colab.research.google.com/drive/1Edlnaic0V5VtkG8cv7ZBuBSSYNZMHfbq?usp=sharing
