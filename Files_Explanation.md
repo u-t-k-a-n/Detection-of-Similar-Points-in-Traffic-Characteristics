@@ -18,6 +18,10 @@
 - Herhangi bir ayın, istenilen gün bazında 5 dakikalık periyotlarla trafik akış hızının çubuk grafiğini gösteren fonksiyon: show_barplot_5minutes(filename,month,day)
 - Herhangi bir ayın, istenilen gün ve periyot bazında  trafik akış hızının çizgi grafiğini gösteren fonksiyon: show_plotline(filename,month,day,minute)
 
+## 4) Coordinates_2017
+- Coordinates.json dosyasından elimizde bulunan dosyaların koordinatlarını çektik
+- Bütün dosyalar için eşsiz koordinatları belirledik ve bunları csv dosyası olarak kaydettik
+
 
 
 
