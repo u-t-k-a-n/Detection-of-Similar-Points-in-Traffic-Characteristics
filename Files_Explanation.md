@@ -28,7 +28,10 @@
 ## 6) SimilarityScore
 - İki dosya arasında istenilen ay,gün,periyot bakımından korelasyon katsayısını hesaplayan fonksiyon: score_corrcoef(file1,file2,month=None,day=None,minute=5)
 
-## 7) 
+## 7) SimilarityScore_tf
+- Bir dosyanın diğer bütün dosyalar arasında yıllık bazda korelasyon katsayısı 10'luk bloklar halinde hesaplanır ve csv şeklinde kaydedilir
+
+## 8) 
 
 
 
