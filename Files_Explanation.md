@@ -13,5 +13,11 @@
 - Hız değeri 10 km/h'nin altında olan değerler 10 km/h yapıldı ve bunun bilgisi veri setine yeni sütün olarak eklendi
 - Hız değeri 130 km/h'nin üstünde olan değerler 130 km/h yapıldı ve bunun bilgisi veri setine yeni sütün olarak eklendi
 
+## 3) DataVisualization_2017
+- Herhangi bir ayın, istenilen gün bazında 5 dakikalık periyotlarla trafik akış hızının çizgi grafiğini gösteren fonksiyon: show_plotline_5minutes(filename,month,day)
+- Herhangi bir ayın, istenilen gün bazında 5 dakikalık periyotlarla trafik akış hızının çubuk grafiğini gösteren fonksiyon: show_barplot_5minutes(filename,month,day)
+- Herhangi bir ayın, istenilen gün ve periyot bazında  trafik akış hızının çizgi grafiğini gösteren fonksiyon: show_plotline(filename,month,day,minute)
+
+
 
 
