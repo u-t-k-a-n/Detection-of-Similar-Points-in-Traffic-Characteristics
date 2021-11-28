@@ -31,7 +31,14 @@
 ## 7) SimilarityScore_tf
 - Bir dosyanın diğer bütün dosyalar arasında yıllık bazda korelasyon katsayısı 10'luk bloklar halinde hesaplanır ve csv şeklinde kaydedilir
 
-## 8) 
+## 8) SimilarityScores_2017
+- Bloklar haline ayrılmış dosyalar tek bir dosya haline getirilir.
+
+## 9) Clustering_2017
+- Benzerlik skorlarına göre clusterlar oluşturulur
+- Noktaların koordinatlara ek olarak bağlı oldukları cluster bilgileri eklenir.
+
+## 10)
 
 
 
