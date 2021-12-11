@@ -21,3 +21,5 @@ SimilarityScores_2017 -> https://colab.research.google.com/drive/1Edlnaic0V5VtkG
 RushHour2017 -> https://colab.research.google.com/drive/1LHIXPx4ZpWvlVRmbdD0Q8-cGNA40ZfQk?usp=sharing
 
 Concat_2017 -> https://colab.research.google.com/drive/1KzLD4sRA_M2p5FBhFS11BcVcsWfC6F7O?usp=sharing
+
+NonRush2017 -> https://colab.research.google.com/drive/1bM7zplxFNzw6fw7GCOYcpIpkBTUfGxBA?usp=sharing
