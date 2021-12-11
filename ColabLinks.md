@@ -25,3 +25,5 @@ Concat_2017 -> https://colab.research.google.com/drive/1KzLD4sRA_M2p5FBhFS11BcVc
 NonRush2017 -> https://colab.research.google.com/drive/1bM7zplxFNzw6fw7GCOYcpIpkBTUfGxBA?usp=sharing
 
 WorkingHour2017 -> https://colab.research.google.com/drive/1FK7sSbioM7p8dyNkdbE0c-Iewe8KSZJH?usp=sharing
+
+NonWorkingHour2017 -> https://colab.research.google.com/drive/1kMwQ6zjiFL-_WApNu8vaPi8acqSY6IKJ?usp=sharing
