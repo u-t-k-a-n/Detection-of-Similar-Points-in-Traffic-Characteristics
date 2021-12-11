@@ -17,3 +17,7 @@ Clustering_2017 -> https://colab.research.google.com/drive/1KeFsNTwsDODPH4bHJofF
 SimilarityScore_tf -> https://colab.research.google.com/drive/1M3A_lFCIzbYTAFjBVt_3Pty2ez8AcR20?usp=sharing
 
 SimilarityScores_2017 -> https://colab.research.google.com/drive/1Edlnaic0V5VtkG8cv7ZBuBSSYNZMHfbq?usp=sharing
+
+RushHour2017 -> https://colab.research.google.com/drive/1LHIXPx4ZpWvlVRmbdD0Q8-cGNA40ZfQk?usp=sharing
+
+Concat_2017 -> https://colab.research.google.com/drive/1KzLD4sRA_M2p5FBhFS11BcVcsWfC6F7O?usp=sharing
