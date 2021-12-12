@@ -31,3 +31,5 @@ NonWorkingHour2017 -> https://colab.research.google.com/drive/1kMwQ6zjiFL-_WApNu
 Spring2017 -> https://colab.research.google.com/drive/1IijNWi1fw5hnsAkjIxZ35jr9zilUDjHy?usp=sharing
 
 Summer2017 -> https://colab.research.google.com/drive/1nsq-Qsh1EP90FrvfrVe05_kUvAHqMeFa?usp=sharing
+
+Fall2017 -> https://colab.research.google.com/drive/1kDgjmdobBrxiYIvohvYPv4iDr4pN0OeM?usp=sharing
