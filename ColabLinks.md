@@ -37,3 +37,5 @@ Fall2017 -> https://colab.research.google.com/drive/1kDgjmdobBrxiYIvohvYPv4iDr4p
 Winter2017 -> https://colab.research.google.com/drive/1RsKK0zXDlkzUOl_WRMZdRhYkvYM22IzZ?usp=sharing
 
 Monday2017 -> https://colab.research.google.com/drive/1AeeCu14BKK76LexFhXII3KOvLp82oqKT?usp=sharing
+
+Tues2Thurs2017 -> https://colab.research.google.com/drive/1Xx46nGO4s0Sf0OYFMuKlZrw_hLZOKAqN?usp=sharing
