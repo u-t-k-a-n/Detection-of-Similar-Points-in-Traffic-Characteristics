@@ -41,3 +41,5 @@ Monday2017 -> https://colab.research.google.com/drive/1AeeCu14BKK76LexFhXII3KOvL
 Tues2Thurs2017 -> https://colab.research.google.com/drive/1Xx46nGO4s0Sf0OYFMuKlZrw_hLZOKAqN?usp=sharing
 
 Friday2017 -> https://colab.research.google.com/drive/1HWUmBg2C9RBfFN9IBAZS8S3y-smmyFQh?usp=sharing
+
+Saturday2017 -> https://colab.research.google.com/drive/1zur4g8lNRsljU8OV6chfJrZoGNv8sYfy?usp=sharing
